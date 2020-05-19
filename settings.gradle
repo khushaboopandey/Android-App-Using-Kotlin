@@ -1,0 +1,2 @@
+rootProject.name='Wakaw App Ex'
+include ':app'
